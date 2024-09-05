@@ -22,15 +22,7 @@ A simple TCP Client application built using Python's `socket` library and `tkint
    git clone https://github.com/your-username/TCP-Client.git
    cd TCP-Client
    ```
-
-2. (Optional) Create and activate a virtual environment:
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. Run the application:
+2. Run the application:
 
    ```bash
    python main.py
